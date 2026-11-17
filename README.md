@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+## NAME : MANOJ KUMAR N
+## REG NO : 212225230168
+
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
