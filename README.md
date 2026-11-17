@@ -97,4 +97,4 @@ else:
 <img width="770" height="277" alt="image" src="https://github.com/user-attachments/assets/0817f942-1dec-4760-8437-9a420c224e39" />
 
 # Results
-
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
